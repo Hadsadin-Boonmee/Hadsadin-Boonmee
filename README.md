@@ -14,8 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![C++][(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.google.com/imgres?q=c%2B%2B&imgurl=https%3A%2F%2Fthumb.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FISO_C%252B%252B_Logo.svg%2F1280px-ISO_C%252B%252B_Logo.svg.png%3Futm_source%3Dth.wikipedia.org%26utm_campaign%3Dindex%26utm_content%3Dthumbnail&imgrefurl=https%3A%2F%2Fth.wikipedia.org%2Fwiki%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%25A9%25E0%25B8%25B2%25E0%25B8%258B%25E0%25B8%25B5%25E0%25B8%259E%25E0%25B8%25A5%25E0%25B8%25B1%25E0%25B8%25AA%25E0%25B8%259E%25E0%25B8%25A5%25E0%25B8%25B1%25E0%25B8%25AA&docid=ntzFRlcojbSABM&tbnid=1q0XLNZj8-3lDM&vet=12ahUKEwibxJPXsP-XAxXLR2wGHe3uLK4QnPAOegQIJxAA..i&w=1280&h=1441&hcb=2&ved=2ahUKEwibxJPXsP-XAxXLR2wGHe3uLK4QnPAOegQIJxAA)
+.
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
