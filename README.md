@@ -4,7 +4,7 @@
 - 🎓 Computer Science Student at University of phayao **<span type="placeholder" placeholder-type="place"></span>**
 - 💡 Interested in **Software Engineering, Web Development, and Game Develop**
 - 🎯 Current Goal: Learning Full-Stack Development
-- 💬 Ask me about **JavaScript, Python, and Web Frameworks**
+- 💬 Ask me about **JavaScript, Python, **
 
 ---
 
