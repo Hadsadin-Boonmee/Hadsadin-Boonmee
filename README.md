@@ -1,4 +1,4 @@
-# Hi there, I'm <span type="placeholder" placeholder-type="person"></span> 👋
+# Hi there, I'm Hadsadin Boonmee <span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of phayao **<span type="placeholder" placeholder-type="place"></span>**
