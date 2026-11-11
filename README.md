@@ -32,8 +32,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hadsadin-Boonmee&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hadsadin-Boonmee&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hadsadin-Boonmee&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hadsadin-Boonmee&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
